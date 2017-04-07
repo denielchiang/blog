@@ -27,6 +27,11 @@ github_username:  denielchiang
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
+
+# Set theme color here
+# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
+theme_color: white
+
 gems:
   - jekyll-feed
 exclude:
