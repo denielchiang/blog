@@ -32,12 +32,6 @@ theme: jekyll-swiss
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 theme_color: white
 
-# Disqus Comments
-disqus:
-    # Leave shortname blank to disable comments site-wide.
-    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: denielchiang
-
 gems:
   - jekyll-feed
 exclude:
